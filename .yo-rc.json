@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitHubOrganization": "gbrlcnv",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "it.ec.quest",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "session",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "it",
+    "languages": [
+      "en",
+      "it"
+    ],
+    "clientFramework": "angular1",
+    "jhipsterVersion": "4.13.2",
+    "packageFolder": "it/ec/quest",
+    "rememberMeKey": "9a4aa37b3e9f4d70a62fe8c71edf3e5a1224fe7f",
+    "jhiPrefix": "jhi"
+  }
+}
